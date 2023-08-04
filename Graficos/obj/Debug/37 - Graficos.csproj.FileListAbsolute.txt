@@ -1,0 +1,22 @@
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\37 - Graficos\37 - Graficos\bin\Debug\37 - Graficos.exe.config
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\37 - Graficos\37 - Graficos\bin\Debug\37 - Graficos.exe
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\37 - Graficos\37 - Graficos\bin\Debug\37 - Graficos.pdb
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\37 - Graficos\37 - Graficos\obj\Debug\37 - Graficos.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\37 - Graficos\37 - Graficos\obj\Debug\37 - Graficos.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\37 - Graficos\37 - Graficos\obj\Debug\_37___Graficos.Form1.resources
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\37 - Graficos\37 - Graficos\obj\Debug\_37___Graficos.Properties.Resources.resources
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\37 - Graficos\37 - Graficos\obj\Debug\37 - Graficos.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\37 - Graficos\37 - Graficos\obj\Debug\37 - Graficos.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\37 - Graficos\37 - Graficos\obj\Debug\37 - Graficos.exe
+C:\Users\vitor\Desktop\CURSOS\C#\Curso Udemy\37 - Graficos\37 - Graficos\obj\Debug\37 - Graficos.pdb
+C:\Users\vitor\Desktop\Projetos\Curso C#\37 - Graficos\37 - Graficos\bin\Debug\37 - Graficos.exe.config
+C:\Users\vitor\Desktop\Projetos\Curso C#\37 - Graficos\37 - Graficos\bin\Debug\37 - Graficos.exe
+C:\Users\vitor\Desktop\Projetos\Curso C#\37 - Graficos\37 - Graficos\bin\Debug\37 - Graficos.pdb
+C:\Users\vitor\Desktop\Projetos\Curso C#\37 - Graficos\37 - Graficos\obj\Debug\37 - Graficos.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\37 - Graficos\37 - Graficos\obj\Debug\37 - Graficos.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\37 - Graficos\37 - Graficos\obj\Debug\_37___Graficos.Form1.resources
+C:\Users\vitor\Desktop\Projetos\Curso C#\37 - Graficos\37 - Graficos\obj\Debug\_37___Graficos.Properties.Resources.resources
+C:\Users\vitor\Desktop\Projetos\Curso C#\37 - Graficos\37 - Graficos\obj\Debug\37 - Graficos.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\37 - Graficos\37 - Graficos\obj\Debug\37 - Graficos.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Projetos\Curso C#\37 - Graficos\37 - Graficos\obj\Debug\37 - Graficos.exe
+C:\Users\vitor\Desktop\Projetos\Curso C#\37 - Graficos\37 - Graficos\obj\Debug\37 - Graficos.pdb
